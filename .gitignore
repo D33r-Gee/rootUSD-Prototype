@@ -2,3 +2,5 @@
 privatekey.hex
 # go sum file
 go.sum
+# sats2rUSD Binary
+sats2rUSD
