@@ -1,0 +1,4 @@
+# private key
+privatekey.hex
+# go sum file
+go.sum
