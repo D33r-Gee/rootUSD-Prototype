@@ -473,4 +473,4 @@ Ok we are now all set up and ready to go!
 
 Now that you have a set up with two LND nodes, two Taro nodes and Bitcoin Core daemon running on regtest, you can continue with the proof of concept tutorial of exchanging sats for rUSD using a Discreet Log Contract:
 
-* [Executing a Discreet Log Contract using LND-AF] (execute-dlc-litaf.md)
+* [Executing the Sats 2 rootUSD](README.md#running-the-demo)
