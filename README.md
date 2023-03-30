@@ -31,4 +31,4 @@ go run lnd_dlc_taro_poc.go
 * Would it wise to integrate DLCs into the Taro protocol? Or should it be a separate project?
 * Would it be desirable to integrate the DLC code into LND?
 * Experiment with different Oracle implementations (actually have a local instance publishing prices and pubkeys)
-* Experiemtn with other Lightning Network implementations (eclair, c-lightning, etc.)
+* Experiment with other Lightning Network implementations (eclair, c-lightning, etc.)
