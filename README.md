@@ -25,6 +25,10 @@ run the demo with the following command:
 ```
 go run lnd_dlc_taro_poc.go
 ```
+or
+```
+./sats2rUSD
+```
 
 ## Next Steps
 * Discuss the project with the Taro team/communitty and see if this approach is something that makes sense?
