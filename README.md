@@ -2,9 +2,12 @@
 
 
 The code in this repository is a proof of concept for using Discreet Log Contracts (DLCs) with Bitcoin Core, LND, and Taro, to exchange sats for a synthetic USD "root USD/rUSD" Taro asset.
+
 This is an experimental project and should not be used for any real-world transactions.
-Also note that this is an independent project, not affiliated with Lighting Labs, and is not endorsed by Lightning Labs (creators of both [LND](https://github.com/lightningnetwork/lnd) and [Taro](https://github.com/lightninglabs/taro)).
-Credit goes to MIT's Digital Currency Initiative for the original idea and implementation of the [DLC](https://dci.mit.edu/smart-contracts) protocol. The code in this repository is based on the MIT DLC implementation, which is available here:
+
+Please be aware that this project is independently developed and not affiliated with Lightning Labs. While it utilizes both [LND](https://github.com/lightningnetwork/lnd) and [Taro](https://github.com/lightninglabs/taro), which were created by Lightning Labs, they have not officially endorsed our work. Nonetheless, we appreciate their contributions to the community!
+
+Also credit goes to MIT's Digital Currency Initiative for the original idea and implementation of the [DLC](https://dci.mit.edu/smart-contracts) protocol. The code in this repository is based on the MIT DLC implementation, which is available here:
 * [DLC Tutorial (golang)](https://github.com/mit-dci/lit-rpc-client-go-samples/blob/master/dlctutorial/dlctutorial.go)
 
 
