@@ -1,7 +1,7 @@
-# Proof of concept for using Discreet Log Contracts (DLCs) with Bitcoin Core, LND, and Taro, to exchange Sats for a synthetic USD "root USD / rUSD"
+# Proof of concept for using Discreet Log Contracts (DLCs) with Bitcoin Core, LND, and Taro, to exchange Sats for a stablecoin USD "root USD / rUSD"
 
 
-The code in this repository is a proof of concept for using Discreet Log Contracts (DLCs) with Bitcoin Core, LND, and Taro, to exchange sats for a synthetic USD "root USD/rUSD" Taro asset.
+The code in this repository is a proof of concept for using Discreet Log Contracts (DLCs) with Bitcoin Core, LND, and Taro, to exchange sats for a stablecoin USD "root USD/rUSD" Taro asset.
 
 This is an experimental project and should not be used for any real-world transactions.
 
